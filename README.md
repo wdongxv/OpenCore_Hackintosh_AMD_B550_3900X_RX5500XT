@@ -23,3 +23,6 @@
 *  [OpenCore Install Guide # Ryzen and Threadripper(17h)](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#booter)
 *  [[EB|#LOG:EXITBS:START] ERROR ](https://dortania.github.io/OpenCore-Install-Guide/troubleshooting/troubleshooting.html#stuck-on-eb-log-exitbs-start)
 * [黑苹果AMD RX5500XT定制FBname 提升显卡性能](https://macx.top/8748.html)
+
+# 工具
+* [MountEFI](https://github.com/corpnewt/MountEFI)
