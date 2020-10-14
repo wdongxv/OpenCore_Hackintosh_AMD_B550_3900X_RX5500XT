@@ -25,4 +25,5 @@
 * [黑苹果AMD RX5500XT定制FBname 提升显卡性能](https://macx.top/8748.html)
 
 # 工具
+* [gibMacOS](https://github.com/corpnewt/gibMacOS)
 * [MountEFI](https://github.com/corpnewt/MountEFI)
