@@ -1,4 +1,9 @@
-# 一部AMD Yes!的黑苹果OpenCore配置
+# ✅ macOS Big Sur 可以运行! 
+
+> 2020.11.19：
+> NVMe在AMD上识别为外部磁盘，如果不需要可以删除 DeviceProperties 下 PciRoot(0x0)/Pci(0x1,0x1)/Pci(0x0,0x0)  的项目
+
+# 一部AMD Yes! 的黑苹果OpenCore配置
 > 如果在同样的硬件上运行，请注意两项内容：
 >  1. Serial等需要重新生成 参考 [OpenCore Install Guide # platforminfo](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#platforminfo)
 >  2. 定制FBname如果无效 需要用 [Hackintool](https://github.com/headkaze/Hackintool/releases) 检查显卡的PciRoot路径
