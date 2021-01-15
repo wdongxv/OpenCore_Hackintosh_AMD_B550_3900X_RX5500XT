@@ -10,6 +10,7 @@
 
 ||主要部件|
 | ---- | ---- |
+|主板|**GIGABYTE B550M AORUS PRO**|
 |处理器|**AMD Ryzen 9 3900X**|
 |硬盘|**WD_BLACK SN750 500GB**|
 |内存|**Kingston DDR4 3200 16GB** `x2`|
