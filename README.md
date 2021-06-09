@@ -1,5 +1,6 @@
-# ✅ macOS Big Sur 可以运行! 
-
+# 近期更新
+> 2021.06.09：
+> ✅ 支持Big Sur 11.4
 > 2020.11.19：
 > NVMe在AMD上识别为外部磁盘，如果不需要可以删除 DeviceProperties 下 PciRoot(0x0)/Pci(0x1,0x1)/Pci(0x0,0x0)  的项目
 
