@@ -27,6 +27,10 @@
 ![screen x2](./images/screen.png)
 ![Geekbench](./images/Geekbench.png)
 
+# DIY 显示器
+
+![screedn](./images/diy%20screen.jpg)
+
 # 参考
 *  [B550 Boards now work on macOS](https://forum.amd-osx.com/index.php?threads/b550-boards-now-work-on-macos.713)
 *  [OpenCore Install Guide # Ryzen and Threadripper(17h)](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#booter)
